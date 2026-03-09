@@ -53,8 +53,7 @@ Features include:
   - Profit vs Target
   - Transactions vs Target
 
-- **Price Adjustment Slider (What-if parameter)**  
-  Allows users to simulate how **price changes impact profit**.
+- **Price Adjustment Slider (What-if parameter)**: Allows users to simulate how **price changes impact profit**.
 
 ---
 
@@ -70,8 +69,6 @@ Key metrics and segmentation:
   - Country
   - Occupation
 
-This helps support **targeted marketing strategies**.
-
 ---
 
 ### 🌍 Page 4: Geo & Time Analysis
@@ -83,5 +80,3 @@ Key insights include:
 - Identifying **top-performing regions** using map visualizations
 - Tracking **weekend transaction rates**
 - Analyzing **revenue by day of the week**
-
-These insights help improve **store operations and planning**.
