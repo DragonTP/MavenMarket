@@ -68,6 +68,8 @@ Key metrics and segmentation:
   - Education level
   - Country
   - Occupation
+- Customer Growth & Revenue per Customer Tracking
+- Top customer report with revenue and order performance
 
 ---
 
